@@ -1,3 +1,2 @@
-# Big Project 
-
-Project for personal development. language- JS, mern
+# big_Project
+An app to connect people.
